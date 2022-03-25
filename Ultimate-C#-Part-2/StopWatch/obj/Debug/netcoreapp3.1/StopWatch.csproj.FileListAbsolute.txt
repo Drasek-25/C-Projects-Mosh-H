@@ -1,0 +1,13 @@
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.exe
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.deps.json
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.json
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.dev.json
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.dll
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.pdb
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csprojAssemblyReference.cache
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfoInputs.cache
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfo.cs
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.dll
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.pdb
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.genruntimeconfig.cache
