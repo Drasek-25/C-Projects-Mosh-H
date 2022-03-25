@@ -1,0 +1,12 @@
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StackOverflowPost\bin\Debug\netcoreapp3.1\StackOverflowPost.exe
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StackOverflowPost\bin\Debug\netcoreapp3.1\StackOverflowPost.deps.json
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StackOverflowPost\bin\Debug\netcoreapp3.1\StackOverflowPost.runtimeconfig.json
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StackOverflowPost\bin\Debug\netcoreapp3.1\StackOverflowPost.runtimeconfig.dev.json
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StackOverflowPost\bin\Debug\netcoreapp3.1\StackOverflowPost.dll
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StackOverflowPost\bin\Debug\netcoreapp3.1\StackOverflowPost.pdb
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StackOverflowPost\obj\Debug\netcoreapp3.1\StackOverflowPost.AssemblyInfoInputs.cache
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StackOverflowPost\obj\Debug\netcoreapp3.1\StackOverflowPost.AssemblyInfo.cs
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StackOverflowPost\obj\Debug\netcoreapp3.1\StackOverflowPost.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StackOverflowPost\obj\Debug\netcoreapp3.1\StackOverflowPost.dll
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StackOverflowPost\obj\Debug\netcoreapp3.1\StackOverflowPost.pdb
+D:\Documents\Projects\Repos\C#-Projects-Mosh-H\Ultimate-C#-Part-2\StackOverflowPost\obj\Debug\netcoreapp3.1\StackOverflowPost.genruntimeconfig.cache
